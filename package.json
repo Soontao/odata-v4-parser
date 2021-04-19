@@ -34,7 +34,7 @@
     "release": "standard-version --no-verify && git push --follow-tags origin master"
   },
   "devDependencies": {
-    "@odata/metadata": "^0.1.14",
+    "@odata/metadata": "^0.2.2",
     "@types/jest": "^26.0.22",
     "@types/node": "^14.14.41",
     "@typescript-eslint/eslint-plugin": "^4.22.0",
